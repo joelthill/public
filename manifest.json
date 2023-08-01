@@ -4,11 +4,11 @@
 	"type": "Manifest",
 	"label": {
 		"en": [
-			"test manifest - unordered"
+			"test manifest - facing-pages"
 		]
 	},
 	"behavior": [
-		"unordered"
+		"facing-pages"
 	],
 	"items": [
 		{
