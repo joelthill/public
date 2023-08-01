@@ -4,11 +4,11 @@
 	"type": "Manifest",
 	"label": {
 		"en": [
-			"test manifest - together"
+			"test manifest - individuals"
 		]
 	},
 	"behavior": [
-		"together"
+		"individuals"
 	],
 	"items": [
 		{
