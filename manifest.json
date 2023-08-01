@@ -4,11 +4,11 @@
 	"type": "Manifest",
 	"label": {
 		"en": [
-			"test manifest - facing-pages"
+			"test manifest - together"
 		]
 	},
 	"behavior": [
-		"facing-pages"
+		"together"
 	],
 	"items": [
 		{
