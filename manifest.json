@@ -19,8 +19,8 @@
 					"Blank page"
 				]
 			},
-			"height": 4613,
-			"width": 3204,
+			"height": 5095,
+			"width": 7323,
 			"items": [
 				{
 					"id": "https://iiif.io/api/cookbook/recipe/0009-book-1//page/p1/1",
@@ -34,8 +34,8 @@
 								"id": "https://iiif.io/api/image/3.0/example/reference/59d09e6773341f28ea166e9f3c1e674f-gallica_ark_12148_bpt6k1526005v_f18/full/max/0/default.jpg",
 								"type": "Image",
 								"format": "image/jpeg",
-								"height": 4613,
-								"width": 3204,
+								"height": 5095,
+								"width": 7323,
 								"service": [
 									{
 										"id": "https://iiif.io/api/image/3.0/example/reference/59d09e6773341f28ea166e9f3c1e674f-gallica_ark_12148_bpt6k1526005v_f18",
@@ -58,8 +58,8 @@
 					"Blank page"
 				]
 			},
-			"height": 4578,
-			"width": 3174,
+			"height": 5095,
+			"width": 7323,
 			"items": [
 				{
 					"id": "https://iiif.io/api/cookbook/recipe/0009-book-1//page/p4/1",
@@ -73,8 +73,8 @@
 								"id": "https://iiif.io/api/image/3.0/example/reference/59d09e6773341f28ea166e9f3c1e674f-gallica_ark_12148_bpt6k1526005v_f21/full/max/0/default.jpg",
 								"type": "Image",
 								"format": "image/jpeg",
-								"height": 4578,
-								"width": 3174,
+								"height": 5095,
+								"width": 7323,
 								"service": [
 									{
 										"id": "https://iiif.io/api/image/3.0/example/reference/59d09e6773341f28ea166e9f3c1e674f-gallica_ark_12148_bpt6k1526005v_f21",
