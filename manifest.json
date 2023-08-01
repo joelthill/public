@@ -3,21 +3,14 @@
 	"id": "https://iiif.io/api/cookbook/recipe/0009-book-1//manifest.json",
 	"type": "Manifest",
 	"label": {
-		"fr": [
-			" Donation d'un bien à Eisenach à l'abbaye d'Echternach"
-		]
+		"fr": [ " Donation d'un bien à Eisenach à l'abbaye d'Echternach" ]
 	},
-	"behavior": [
-		"paged"
-	],
 	"items": [
 		{
 			"id": "https://raw.githubusercontent.com/joelthill/public/main/A-LXI-001-001.jpg",
 			"type": "Canvas",
 			"label": {
-				"en": [
-					"Blank page"
-				]
+				"en": [ "Recto" ]
 			},
 			"height": 5095,
 			"width": 7323,
@@ -34,8 +27,6 @@
 								"id": "https://raw.githubusercontent.com/joelthill/public/main/A-LXI-001-001.jpg",
 								"type": "Image",
 								"format": "image/jpeg",
-								"height": 5095,
-								"width": 7323,
 								"service": [
 									{
 										"id": "https://raw.githubusercontent.com/joelthill/public/main/A-LXI-001-001.jpg",
