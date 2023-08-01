@@ -4,21 +4,13 @@
 	"type": "Manifest",
 	"label": {
 		"en": [
-			"test manifest - individuals"
+			"test manifest - reduced"
 		]
 	},
-	"behavior": [
-		"individuals"
-	],
 	"items": [
 		{
 			"id": "https://iiif.io/api/cookbook/recipe/0009-book-1//canvas/p1",
 			"type": "Canvas",
-			"label": {
-				"en": [
-					"Blank page"
-				]
-			},
 			"height": 4613,
 			"width": 3204,
 			"items": [
@@ -53,11 +45,6 @@
 		{
 			"id": "https://iiif.io/api/cookbook/recipe/0009-book-1//canvas/p2",
 			"type": "Canvas",
-			"label": {
-				"en": [
-					"Frontispiece"
-				]
-			},
 			"height": 4612,
 			"width": 3186,
 			"items": [
@@ -92,11 +79,6 @@
 		{
 			"id": "https://iiif.io/api/cookbook/recipe/0009-book-1//canvas/p3",
 			"type": "Canvas",
-			"label": {
-				"en": [
-					"Title page"
-				]
-			},
 			"height": 4613,
 			"width": 3204,
 			"items": [
@@ -131,11 +113,6 @@
 		{
 			"id": "https://iiif.io/api/cookbook/recipe/0009-book-1//canvas/p4",
 			"type": "Canvas",
-			"label": {
-				"en": [
-					"Blank page"
-				]
-			},
 			"height": 4578,
 			"width": 3174,
 			"items": [
