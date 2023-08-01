@@ -26,7 +26,14 @@
 							"body": {
 								"id": "https://raw.githubusercontent.com/joelthill/public/main/A-LXI-001-001-Image",
 								"type": "Image",
-								"format": "image/jpeg"
+								"format": "image/jpeg",
+								"service": [
+									{
+										"id": "https://raw.githubusercontent.com/joelthill/public/main/A-LXI-001-001.jpg",
+										"type": "ImageService3",
+										"profile": "level0"
+									}
+								]
 							},
 							"target": "https://raw.githubusercontent.com/joelthill/public/main/A-LXI-001-001.jpg"
 						}
