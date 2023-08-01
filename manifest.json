@@ -1,13 +1,13 @@
 {
 	"@context": "http://iiif.io/api/presentation/3/context.json",
-	"id": "https://iiif.io/api/cookbook/recipe/0009-book-1//manifest.json",
+	"id": "https://raw.githubusercontent.com/joelthill/public/main/A-LXI",
 	"type": "Manifest",
 	"label": {
 		"fr": [ " Donation d'un bien à Eisenach à l'abbaye d'Echternach" ]
 	},
 	"items": [
 		{
-			"id": "https://raw.githubusercontent.com/joelthill/public/main/A-LXI-001-001.jpg",
+			"id": "https://raw.githubusercontent.com/joelthill/public/main/A-LXI-001",
 			"type": "Canvas",
 			"label": {
 				"en": [ "Recto" ]
@@ -16,24 +16,17 @@
 			"width": 7323,
 			"items": [
 				{
-					"id": "https://raw.githubusercontent.com/joelthill/public/main/A-LXI-001-001.jpg",
+					"id": "https://raw.githubusercontent.com/joelthill/public/main/A-LXI-001-001-AnnotationPage",
 					"type": "AnnotationPage",
 					"items": [
 						{
-							"id": "https://raw.githubusercontent.com/joelthill/public/main/A-LXI-001-001.jpg",
+							"id": "https://raw.githubusercontent.com/joelthill/public/main/A-LXI-001-001-Annotation",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://raw.githubusercontent.com/joelthill/public/main/A-LXI-001-001.jpg",
+								"id": "https://raw.githubusercontent.com/joelthill/public/main/A-LXI-001-001-Image",
 								"type": "Image",
-								"format": "image/jpeg",
-								"service": [
-									{
-										"id": "https://raw.githubusercontent.com/joelthill/public/main/A-LXI-001-001.jpg",
-										"type": "ImageService3",
-										"profile": "level0"
-									}
-								]
+								"format": "image/jpeg"
 							},
 							"target": "https://raw.githubusercontent.com/joelthill/public/main/A-LXI-001-001.jpg"
 						}
