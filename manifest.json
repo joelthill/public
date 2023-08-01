@@ -7,8 +7,6 @@
 			"test manifest - simple paged"
 		]
 	},
-	"behavior": [
-		"continuous"
 	],
 	"items": [
 		{
