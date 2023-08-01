@@ -4,10 +4,14 @@
 	"type": "Manifest",
 	"label": {
 		"en": [
-			"test manifest - default behavior"
+			"test manifest - unordered"
 		]
 	},
-	"items": [		{
+	"behavior": [
+		"unordered"
+	],
+	"items": [
+		{
 			"id": "https://iiif.io/api/cookbook/recipe/0009-book-1//canvas/p1",
 			"type": "Canvas",
 			"label": {
