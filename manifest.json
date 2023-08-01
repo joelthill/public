@@ -8,10 +8,9 @@
 		]
 	},
 	"behavior": [
-		"continuous"
+		"paged"
 	],
-	"items": [
-		{
+	"items": [		{
 			"id": "https://iiif.io/api/cookbook/recipe/0009-book-1//canvas/p1",
 			"type": "Canvas",
 			"label": {
